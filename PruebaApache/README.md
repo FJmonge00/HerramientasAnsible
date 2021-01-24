@@ -7,7 +7,7 @@
 ![fotosAnsible](../imagenes/red.jpg)
 
 
-| Equipo | | IP | | Paquetes necesarios|
+ | Equipo | | IP | | Paquetes necesarios |
 | -- | -- | -- |
 | ServidorWeb | 192.168.0.254 | Únicamente ssh |
 | ServidorWeb2 | 192.168.0.253 | Únicamente ssh |
