@@ -8,10 +8,10 @@
 
 
 | Equipo | | IP | | Paquetes necesarios|
-| -- |
-| ServidorWeb | | 192.168.0.254 | | Únicamente ssh |
-| ServidorWeb2 | | 192.168.0.253 | | Únicamente ssh |
-| ServidorAnsible | | 192.168.0.95 | | Ansible, python, ssh |
+| -- | -- | -- |
+| ServidorWeb | 192.168.0.254 | Únicamente ssh |
+| ServidorWeb2 | 192.168.0.253 | Únicamente ssh |
+| ServidorAnsible | 192.168.0.95 | Ansible, python, ssh |
 
 ## Servidor Ansible
 
