@@ -1,13 +1,13 @@
 <img src="./imagenes/MI-LICENCIA88x31.png" style="float: left; margin-right: 10px;" />
 
 # Ansible
-Este repositorio lo utulizaré para docuemntar y compartir mis pruebas con Ansible
-
-# Herramietas Examen LDIF
+Este repositorio lo utulizaré para docuemntar y compartir mis pruebas con Ansible...
 
 ## [1.- Instalar Apache2 y Configurar Sitios Virtuales.](./PruebaApache/)
 <!-- ## [2.- 
 ## [3.-  -->
+
+
 
 > [!IMPORTANT]
 > Los repositorios debian Buster nos brindará una versión de ansible que probablemente **NO sea la mas reciente**.
