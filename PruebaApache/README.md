@@ -4,7 +4,7 @@
 
 ## Mi Red
 
-![ConfigiracionBasica](../imagenes/red.jpg)
+![fotosAnsible](../imagenes/red.jpg)
 
 
 | Equipo | | IP | | Paquetes necesarios|
@@ -21,7 +21,7 @@ Generamos unas claves SSH para la conectarnos sin necesidad de introducir contra
 ssh-keygen
 ```
 
-![ConfigiracionBasica](../imagenes/clavesSSH.png)
+![fotosAnsible](../imagenes/clavesSSH.png)
 
 ### Exportamos nuestra clave pública a los servidores
 
@@ -35,11 +35,11 @@ ssh-copy-id -i /root/.ssh/id_rsa.pub usuario@192.168.0.254
 
 *Al ser la primera conexion nos pedirá la clave del servidor que nos estamos conectando*
 
-![ConfigiracionBasica](../imagenes/compartirClaves.png)
+![fotosAnsible](../imagenes/compartirClaves.png)
 
 ### Prueba de conexión
 
-![ConfigiracionBasica](../imagenes/conexionSinContrasena.png)
+![fotosAnsible](../imagenes/conexionSinContrasena.png)
 
 *No ha sido necesaría la autenticación*
 
@@ -113,13 +113,13 @@ sudo systemctl status apache2 > EstadoServicio$(date +%d-%m-%Y).txt
 ```
 ### Ejecutamos las tareas configuradas en fichero YAML
 
-![ConfigiracionBasica](../imagenes/ficheros.jpg)
+![fotosAnsible](../imagenes/ficheros.jpg)
 
 ```bash
 ansible-playbook -i hosts --ask-become-pass webServer.yml
 ```
 
-![ConfigiracionBasica](../imagenes/ejecucionScriptAnsible.png)
+![fotosAnsible](../imagenes/ejecucionScriptAnsible.png)
 
 _________________________________________________
 *[Volver atrás...](../README.md)*
