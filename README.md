@@ -12,7 +12,7 @@ Este repositorio lo utulizaré para docuemntar y compartir mis pruebas con Ansib
 ### Pasos Previos...
 > [!IMPORTANT]
 > Los repositorios debian Buster nos brindará una versión de ansible que probablemente **NO sea la mas reciente**.
-> Ansible necesita de Python para funcionar, en caso de añadir el repositorio de ansible tendremos que ver la versión de python que necesitamos
+> Ansible necesita de Python para funcionar, en caso de añadir de instalar manualmente una version mas reciente de ansible tendremos que ver la versión de python que necesita
 
 ## Instalar Ansible desde los repositorios de Debian Buster
 
