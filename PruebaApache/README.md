@@ -121,5 +121,11 @@ ansible-playbook -i hosts --ask-become-pass webServer.yml
 
 ![fotosAnsible](../imagenes/ejecucionScriptAnsible.png)
 
+*Listo*
+
+## Probamos los Servidores Webs
+
+![fotosAnsible](../imagenes/fin.jpg)
+
 _________________________________________________
 *[Volver atrás...](../README.md)*
