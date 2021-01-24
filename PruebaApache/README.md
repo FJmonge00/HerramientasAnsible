@@ -119,7 +119,7 @@ sudo systemctl status apache2 > EstadoServicio$(date +%d-%m-%Y).txt
 ansible-playbook -i hosts --ask-become-pass webServer.yml
 ```
 
-![ConfigiracionBasica](../imagenes/ejecucionScriptAnsible)
+![ConfigiracionBasica](../imagenes/ejecucionScriptAnsible.png)
 
 _________________________________________________
 *[Volver atrás...](../README.md)*
