@@ -6,9 +6,7 @@ Este repositorio lo utulizaré para docuemntar y compartir mis pruebas con Ansib
 ## [1.- Instalar Apache2 y Configurar Sitios Virtuales.](./PruebaApache/)
 <!-- ## [2.- 
 ## [3.-  -->
-
-
-
+### Pasos Previos...
 > [!IMPORTANT]
 > Los repositorios debian Buster nos brindará una versión de ansible que probablemente **NO sea la mas reciente**.
 > [!IMPORTANT]
